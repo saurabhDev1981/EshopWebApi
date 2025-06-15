@@ -4,3 +4,6 @@
 
 /src/Eshop.WebApi/.vs/Eshop.WebApi
 /src/Eshop.WebApi/obj
+/src/Eshop.Application/obj
+/src/Eshop.Core/obj
+/src/Eshop.Infrastructure/obj
